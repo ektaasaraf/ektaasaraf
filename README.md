@@ -1,6 +1,6 @@
 # hey, i'm ekta
 
-started coding somewhere between an AI-induced existential crisis and vague panic about staying relevant. plot twist: still completely useless without it.
+started _trying_ to code somewhere between an AI-induced existential crisis and vague panic about staying relevant. plot twist: still completely useless without it.
 
 not a builder. not a developer. mostly just trying to increase the surface area for good things to happen to me — which is also, unfortunately, the entire reason i have twitter.
 
